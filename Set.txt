@@ -34,7 +34,7 @@ Interview Preparation Questions:
 
 17. How would you handle an angry/irritated customer/client?
 
-18. What do you know about our company? 
+18. What do you know about our company? / What do you know about us? 
 
 19. How do you handle stress at workplace?
 
@@ -42,7 +42,7 @@ Interview Preparation Questions:
 
 21. What do you think success would look like in this role?
 
-22. What do you know about our company? / What do you know about us?
+22. Do you prefer to work independently or with a team?
 
 23. What do you know about this job/role that you have applied for?
 
@@ -59,4 +59,4 @@ Interview Preparation Questions:
 29. Do you have any question for me/us?
 
 30. Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you
-    could finish them. 
+    could finish them.
